@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Moji 
 - 👀 I’m interested in startup and opensource 
-- 🌱 I’m currently learning product managing
-- 💞️ I’m looking to collaborate on early-stage startups, NGO's, charity or sustainability projects remotely
-- 📫 My connection (phone and socials) are listed here: https://mnz.ir/
+- 💞️ I’m open to collaborate on early-stage startups, NGO's, charity, sustainability,...etc projects remotely
+- 📫 portfolio: https://mnz.cool/
